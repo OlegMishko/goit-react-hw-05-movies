@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-05-movies/static/css/main.f2011ffd.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.c01fc994.js",
+    "index.html": "/goit-react-hw-05-movies/index.html",
+    "main.f2011ffd.css.map": "/goit-react-hw-05-movies/static/css/main.f2011ffd.css.map",
+    "main.c01fc994.js.map": "/goit-react-hw-05-movies/static/js/main.c01fc994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2011ffd.css",
+    "static/js/main.c01fc994.js"
+  ]
+}
